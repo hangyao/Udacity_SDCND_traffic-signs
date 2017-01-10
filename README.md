@@ -30,6 +30,10 @@ Make sure you are in the top-level project directory `Udacity_SDCND_traffic-sign
 jupyter notebook Traffic_Signs_Recognition.ipynb
 ```
 
+## Data
+
+[German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset)
+
 ## License
 
 The contents of this repository are covered under the [MIT License](LICENSE).
