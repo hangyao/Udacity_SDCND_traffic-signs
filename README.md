@@ -20,6 +20,8 @@ You will also need to have software installed to run and execute a [Jupyter Note
 
 The completed code is provided in the notebook `Traffic_Signs_Recognition.ipynb` notebook file. 
 
+Another tutorial code is also provided in the notebook `traffic-sign-classification-with-keras.ipynb` notebook file. This code requires [Keras](https://keras.io/) library installed.
+
 ## Run
 
 Make sure you are in the top-level project directory `Udacity_SDCND_traffic-signs/` (that contains this README). Then run:
